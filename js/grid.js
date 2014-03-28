@@ -33,12 +33,12 @@ Grid.prototype.fromState = function (state) {
   return cells;
 };
 
-// Find the first available random position
+// Find the last available position
 Grid.prototype.randomAvailableCell = function () {
   var cells = this.availableCells();
 
   if (cells.length) {
-    return cells[Math.floor(Math.random() * cells.length)];
+    return cells[cells.length - 1];
   }
 };
 
@@ -58,7 +58,8 @@ Grid.prototype.availableCells = function () {
 Grid.prototype.eachCell = function (callback) {
   for (var x = 0; x < this.size; x++) {
     for (var y = 0; y < this.size; y++) {
-      callback(x, y, this.cells[x][y]);
+      // swap row and col
+      callback(y, x, this.cells[y][x]);
     }
   }
 };

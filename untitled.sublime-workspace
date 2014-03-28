@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3505,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mzry1992/Dropbox/杂物/honors.html",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/introduction.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/analytics.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/designsummary.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/design.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/uestcthesis.cls",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/titlepage.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/test.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/end.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/testcontent.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/appendix.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/sitemap.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/dependence.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/thesis.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/reference.bib",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/spj.cc",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/listPage.jsp",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/flandre.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/listController.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/dataFile.txt",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/RegisterModalPart.jsp",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/UserControllerWatcher.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/globalFetchGlobalData.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/globalInit.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/controller.userController.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/global.py",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/controller",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/navbarTopUser.jsp",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/navbarTop.jsp",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/decDefault.jsp",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/nav",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/loginResult.txt",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/UserLoginDTO.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/Controller.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/UserController.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/AuthenticationAspect.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/fuck.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/judgecoredesignsummary.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/FieldAnnotation.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/ExpAnnotation.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/Ex'p",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/ApplicationContextConfig.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/WebMVCConfig.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/WebMVCResource.java",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/resources.ini",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/resources.txt.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/resources.txt",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/resources.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/uestcthesis.bst",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/code/getStaticResourceExample.txt",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/projectsummary.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/original.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/translation.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/requirements.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/Eabstract.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/contents/Cabstract.tex",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/chapters/summary.tex",
+		"/Users/mzry1992/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mzry1992/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mzry1992/Documents/project/bachelorThesis/mzry/mzry.sublime-project"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"titlepage",
+			"title",
+			"我们",
+			"htbp",
+			"我们",
+			"foot'mi's'c",
+			"three",
+			"htbp",
+			"h't'b'p",
+			"isbn",
+			"新闻"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"!htb",
+			"htb"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 777.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
